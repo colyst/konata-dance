@@ -7,11 +7,9 @@
 #  Shadows Toggle:     ctrl + shift + y                                                                                             #
 #  Spotify Toggle:     ctrl + shift + u (requires a setup and will prompt you to sign in through a browser when you first open it)  #
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
-```
-```
+
 !!! Remember to change r'YOUR GIF PATH' with your GIF's path, such as: r'C:\Users\kiyom\OneDrive\Images\konata-dance.gif' .
-```
-```
+
  !!! SCROLL DOWN FOR MORE INFOR AND CUSTOMIZATION !!!
 ```
  _**Click here to download.**_
