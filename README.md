@@ -10,6 +10,7 @@ made by colyst, dc: .memo_ <br>
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
 
 !!! Remember to change r'YOUR GIF PATH' with your GIF's path, such as: r'C:\Users\kiyom\OneDrive\Images\konata-dance.gif' .
+this file is optimiezed and it doesn't eat up resources.
 ```
 ### !!! SCROLL DOWN FOR MORE INFOR AND CUSTOMIZATION !!!
  ***[Click here to download.](https://github.com/colyst/konata-dance/releases/download/gif-displayer/konata-dance.pyw)*** <br>
