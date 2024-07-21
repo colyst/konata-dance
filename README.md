@@ -75,14 +75,14 @@ v
 #-> REMEMBER TO PUT YOUR SPOTIFY APP'S CLIENT ID AND SECRET IF YOU WANT TO USE THE "ADJUST GIF SPEED WITH BPM" FEATURE. ALSO, REMEMBER TO PUT http://localhost:8888/callback AS THE REDIRECT URI WHEN YOU ARE CREATING THE SPOTIFY APP.
 ```
 
-===================================================================================
+===========================================================================
 
 ## 1- Adjusting shadows:
    - self.shadow_timer.start(100)        -> every 100ms, adjust as you like.
    - self.shadow_delay_timer.start(100)  -> every 100ms, adjust as you like.
    - self.shadow_widgets = [QLabel(self) for _ in range(4)]   -> "in range(4)" means there will be 4 shadows. Less is fine but if you want more than 4 shadows, you'll need to adjust the maths. If you want 1 shadow, use "in range(1)".
 
-===================================================================================
+===========================================================================
  
  ## 2- Choose which features are enabled or disabled when the app starts:
  
@@ -95,7 +95,7 @@ v
 ! REMEMBER TO PROPERLY TYPE True AND False OTHERWISE IT'LL GIVE AN ERROR.
 ```
 
-===================================================================================
+===========================================================================
 
 ## 3- Using Spotify to adjust the GIF speed:
   - Log in to Spotify. (on your web browser)
@@ -127,4 +127,4 @@ v
   - ! Tip: If the GIF doesn't match the song, adjust scaling_factor as you like. (Default is 0.4)
   - It will check if the song is changed every 5 seconds, so be patient. (adjust with self.bpm_timer.start(5000), default is 5000, it's in ms.).
 
-===================================================================================
+===========================================================================
