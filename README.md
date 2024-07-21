@@ -9,39 +9,34 @@
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
 
 !!! Remember to change r'YOUR GIF PATH' with your GIF's path, such as: r'C:\Users\kiyom\OneDrive\Images\konata-dance.gif' .
-
- !!! SCROLL DOWN FOR MORE INFOR AND CUSTOMIZATION !!!
 ```
- _**Click here to download.**_
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+### !!! SCROLL DOWN FOR MORE INFOR AND CUSTOMIZATION !!!
+ ***[Click here to download.](https://pages.github.com/)***
+```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 ```
 = = = = = = =
 = FEATURES: =
