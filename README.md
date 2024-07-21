@@ -1,5 +1,5 @@
-# konata-dance
-### made by colyst, dc: .memo_
+konata-dance <br>
+made by colyst, dc: .memo_
 ```
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
 #  Quit:               crtl + shift + q                                                                                             #
