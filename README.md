@@ -14,7 +14,6 @@ this file is optimiezed and it doesn't eat up resources.
 ```
 ### !!! SCROLL DOWN FOR MORE INFOR AND CUSTOMIZATION !!!
  ***[Click here to download.](https://github.com/colyst/konata-dance/releases/download/gif-displayer/konata-dance.pyw)*** <br>
- <br>
 [Click here to download the GIF.](https://github.com/colyst/konata-dance/releases/download/gif-displayer/konata-dance.gif)
 <br>
 <br>
