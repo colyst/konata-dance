@@ -1,5 +1,5 @@
 konata-dance <br>
-made by colyst, dc: .memo_ <br>
+made by colyst, dc: colyst <br>
 
 ```
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
