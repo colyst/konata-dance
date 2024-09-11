@@ -1,4 +1,4 @@
-# made by colyst (dc: .memo_)
+# made by colyst (dc: colyst)
 import sys
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
@@ -80,6 +80,7 @@ class GIFWindow(QMainWindow):
         # base speed
         self.base_speed = 100  # Base speed for 133 BPM
 
+        # you can change the shortcuts here.
         # kisayollar
         keyboard.add_hotkey('ctrl+shift+t', self.toggle_interaction)
         keyboard.add_hotkey('ctrl+shift+q', self.quit_application)
@@ -103,10 +104,10 @@ class GIFWindow(QMainWindow):
         self.frame_cache = []
 
         # spotipy api baslatma
-        self.sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID,
-                                                            client_secret=SPOTIPY_CLIENT_SECRET,
-                                                            redirect_uri=SPOTIPY_REDIRECT_URI,
-                                                            scope='user-read-playback-state'))
+        # FOR SPOTIFY #self.sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID,
+        # FOR SPOTIFY #                                                    client_secret=SPOTIPY_CLIENT_SECRET,
+        # FOR SPOTIFY #                                                    redirect_uri=SPOTIPY_REDIRECT_URI,
+        # FOR SPOTIFY #                                                    scope='user-read-playback-state'))
 
         # bpm e gore hiz ayarlanmasi icin timer
         self.bpm_timer = QTimer(self)
