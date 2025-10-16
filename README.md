@@ -1,6 +1,7 @@
 konata-dance <br>
 made by colyst, dc: colyst <br>
 
+[How To Install? (click)](https://www.youtube.com/watch?v=qzpaHeD8oX0) <br>
 ```
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
 #  Quit:               crtl + shift + q                                                                                             #
